@@ -1,7 +1,7 @@
 {
   "name": "helloworld",
   "version": "1.0.0",
-  "description": "Hello world Heroku form GIT HUB",
+  "description": "Hello world Heroku from GIT HUB",
   "scripts": {
     "start": "node index.js"
   },
